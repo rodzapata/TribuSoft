@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TribuSoft.api/TribuSoft.api.csproj" DisplayName="TribuSoft.Api" Id="ea8b0372-7149-4d44-8c63-89564e86a301" />
+  <Project Path="TribuSoft.Application/TribuSoft.Application.csproj" />
+  <Project Path="TribuSoft.Domain/TribuSoft.Domain.csproj" />
+  <Project Path="TribuSoft.Infrastructure/TribuSoft.Infrastructure.csproj" />
+</Solution>

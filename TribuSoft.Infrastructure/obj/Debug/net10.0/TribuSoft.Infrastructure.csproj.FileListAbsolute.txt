@@ -1,0 +1,17 @@
+C:\TribuSoft\TribuSoft\TribuSoft.Infrastructure\bin\Debug\net10.0\TribuSoft.Infrastructure.deps.json
+C:\TribuSoft\TribuSoft\TribuSoft.Infrastructure\bin\Debug\net10.0\TribuSoft.Infrastructure.runtimeconfig.json
+C:\TribuSoft\TribuSoft\TribuSoft.Infrastructure\bin\Debug\net10.0\TribuSoft.Infrastructure.dll
+C:\TribuSoft\TribuSoft\TribuSoft.Infrastructure\bin\Debug\net10.0\TribuSoft.Infrastructure.pdb
+C:\TribuSoft\TribuSoft\TribuSoft.Infrastructure\bin\Debug\net10.0\TribuSoft.Domain.dll
+C:\TribuSoft\TribuSoft\TribuSoft.Infrastructure\bin\Debug\net10.0\TribuSoft.Domain.pdb
+C:\TribuSoft\TribuSoft\TribuSoft.Infrastructure\obj\Debug\net10.0\TribuSoft.Infrastructure.csproj.AssemblyReference.cache
+C:\TribuSoft\TribuSoft\TribuSoft.Infrastructure\obj\Debug\net10.0\TribuSoft.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\TribuSoft\TribuSoft\TribuSoft.Infrastructure\obj\Debug\net10.0\TribuSoft.Infrastructure.AssemblyInfoInputs.cache
+C:\TribuSoft\TribuSoft\TribuSoft.Infrastructure\obj\Debug\net10.0\TribuSoft.Infrastructure.AssemblyInfo.cs
+C:\TribuSoft\TribuSoft\TribuSoft.Infrastructure\obj\Debug\net10.0\TribuSoft.Infrastructure.csproj.CoreCompileInputs.cache
+C:\TribuSoft\TribuSoft\TribuSoft.Infrastructure\obj\Debug\net10.0\TribuSof.9733AA7B.Up2Date
+C:\TribuSoft\TribuSoft\TribuSoft.Infrastructure\obj\Debug\net10.0\TribuSoft.Infrastructure.dll
+C:\TribuSoft\TribuSoft\TribuSoft.Infrastructure\obj\Debug\net10.0\refint\TribuSoft.Infrastructure.dll
+C:\TribuSoft\TribuSoft\TribuSoft.Infrastructure\obj\Debug\net10.0\TribuSoft.Infrastructure.pdb
+C:\TribuSoft\TribuSoft\TribuSoft.Infrastructure\obj\Debug\net10.0\TribuSoft.Infrastructure.genruntimeconfig.cache
+C:\TribuSoft\TribuSoft\TribuSoft.Infrastructure\obj\Debug\net10.0\ref\TribuSoft.Infrastructure.dll
