@@ -15,3 +15,4 @@ public partial class Municipio
 
     public virtual ICollection<Tercero> Terceros { get; set; } = new List<Tercero>();
 }
+
