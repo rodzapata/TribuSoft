@@ -21,3 +21,15 @@ C:\Users\MIGUEL\Documents\workspace\TribuSoft\TribuSoft.Domain\obj\Debug\net10.0
 C:\Users\MIGUEL\Documents\workspace\TribuSoft\TribuSoft.Domain\obj\Debug\net10.0\refint\TribuSoft.Domain.dll
 C:\Users\MIGUEL\Documents\workspace\TribuSoft\TribuSoft.Domain\obj\Debug\net10.0\TribuSoft.Domain.pdb
 C:\Users\MIGUEL\Documents\workspace\TribuSoft\TribuSoft.Domain\obj\Debug\net10.0\ref\TribuSoft.Domain.dll
+C:\Users\Ryzen\Documents\workspace\TribuSoft\TribuSoft.Domain\bin\Debug\net10.0\TribuSoft.Domain.deps.json
+C:\Users\Ryzen\Documents\workspace\TribuSoft\TribuSoft.Domain\bin\Debug\net10.0\TribuSoft.Domain.dll
+C:\Users\Ryzen\Documents\workspace\TribuSoft\TribuSoft.Domain\bin\Debug\net10.0\TribuSoft.Domain.pdb
+C:\Users\Ryzen\Documents\workspace\TribuSoft\TribuSoft.Domain\obj\Debug\net10.0\TribuSoft.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen\Documents\workspace\TribuSoft\TribuSoft.Domain\obj\Debug\net10.0\TribuSoft.Domain.AssemblyInfoInputs.cache
+C:\Users\Ryzen\Documents\workspace\TribuSoft\TribuSoft.Domain\obj\Debug\net10.0\TribuSoft.Domain.AssemblyInfo.cs
+C:\Users\Ryzen\Documents\workspace\TribuSoft\TribuSoft.Domain\obj\Debug\net10.0\TribuSoft.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Documents\workspace\TribuSoft\TribuSoft.Domain\obj\Debug\net10.0\TribuSoft.Domain.sourcelink.json
+C:\Users\Ryzen\Documents\workspace\TribuSoft\TribuSoft.Domain\obj\Debug\net10.0\TribuSoft.Domain.dll
+C:\Users\Ryzen\Documents\workspace\TribuSoft\TribuSoft.Domain\obj\Debug\net10.0\refint\TribuSoft.Domain.dll
+C:\Users\Ryzen\Documents\workspace\TribuSoft\TribuSoft.Domain\obj\Debug\net10.0\TribuSoft.Domain.pdb
+C:\Users\Ryzen\Documents\workspace\TribuSoft\TribuSoft.Domain\obj\Debug\net10.0\ref\TribuSoft.Domain.dll

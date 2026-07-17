@@ -7,15 +7,15 @@ namespace TribuSoft.Infrastructure.Persistence.Entities
     public class Municipio2
     {
         // Usamos 'init' ya que el código suele ser la llave primaria natural y no cambia tras crearse.
-        public required string Codigo { get; init; }
-        public required string Nombre { get; set; }
-        public required string CodigoDepartamento { get; set; }
+        public  string Codigo { get; private init; }
+        public  string Nombre { get; private set; }
+        public  string CodigoDepartamento { get; private set; }
 
         // Respaldamos la lista en un campo privado
         private readonly List<Tercero> _terceros = [];
 
         // Exponemos la colección como de solo lectura para proteger la consistencia del dominio
-        public IReadOnlyCollection<Tercero> Terceros => _terceros.AsReadOnly();
+        public IReadOnlyCollection<Tercero> Terceros => _terceros;
 
         // Constructor requerido por Entity Framework Core para la materialización
         private Municipio2() { }
@@ -30,6 +30,13 @@ namespace TribuSoft.Infrastructure.Persistence.Entities
             Codigo = codigo;
             Nombre = nombre;
             CodigoDepartamento = codigoDepartamento;
+        }
+
+        public void CambiarNombre(string nombre)
+        {
+            ArgumentException.ThrowIfNullOrWhiteSpace(nombre);
+
+            Nombre = nombre;
         }
 
     }
