@@ -11,11 +11,7 @@ namespace TribuSoft.Domain.Entities
         public string Nombre { get; private set; }
         public string CodigoDepartamento { get; private set; }
 
-        // Respaldamos la lista en un campo privado
-        private readonly List<Tercero> _terceros = [];
-
-        // Exponemos la colección como de solo lectura para proteger la consistencia del dominio
-        public IReadOnlyCollection<Tercero> Terceros => _terceros;
+        public Departamento Departamento { get; private set; } = null!;
 
         // Constructor requerido por Entity Framework Core para la materialización
         private Municipio() { }

@@ -24,11 +24,7 @@ internal sealed class DepartamentoConfiguration: IEntityTypeConfiguration<Depart
             .HasColumnName("nombre")
             .HasMaxLength(80);
 
- /*
-        builder.HasMany(d => d.Municipios)
-       .WithOne(m => m.Departamento)
-       .HasForeignKey(m => m.DepartamentoCodigo)
-       .OnDelete(DeleteBehavior.Restrict);
-  */
+
+  
     }
 }
