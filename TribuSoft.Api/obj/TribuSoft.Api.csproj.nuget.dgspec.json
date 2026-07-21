@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.api\\TribuSoft.api.csproj": {}
+    "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.api\\TribuSoft.api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.api\\TribuSoft.api.csproj": {
+    "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.api\\TribuSoft.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.api\\TribuSoft.api.csproj",
+        "projectUniqueName": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.api\\TribuSoft.api.csproj",
         "projectName": "TribuSoft.api",
-        "projectPath": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.api\\TribuSoft.api.csproj",
-        "packagesPath": "C:\\Users\\Ryzen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.api\\obj\\",
+        "projectPath": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.api\\TribuSoft.api.csproj",
+        "packagesPath": "C:\\Users\\MIGUEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ryzen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MIGUEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,8 +33,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Application\\TribuSoft.Application.csproj": {
-                "projectPath": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Application\\TribuSoft.Application.csproj"
+              "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Application\\TribuSoft.Application.csproj": {
+                "projectPath": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Application\\TribuSoft.Application.csproj"
               }
             }
           }
@@ -499,20 +498,20 @@
         }
       }
     },
-    "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Application\\TribuSoft.Application.csproj": {
+    "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Application\\TribuSoft.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Application\\TribuSoft.Application.csproj",
+        "projectUniqueName": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Application\\TribuSoft.Application.csproj",
         "projectName": "TribuSoft.Application",
-        "projectPath": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Application\\TribuSoft.Application.csproj",
-        "packagesPath": "C:\\Users\\Ryzen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Application\\obj\\",
+        "projectPath": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Application\\TribuSoft.Application.csproj",
+        "packagesPath": "C:\\Users\\MIGUEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ryzen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MIGUEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -521,7 +520,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -529,8 +527,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj"
+              "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj"
               }
             }
           }
@@ -845,20 +843,20 @@
         }
       }
     },
-    "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\TribuSoft.Domain.csproj": {
+    "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\TribuSoft.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\TribuSoft.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\TribuSoft.Domain.csproj",
         "projectName": "TribuSoft.Domain",
-        "projectPath": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\TribuSoft.Domain.csproj",
-        "packagesPath": "C:\\Users\\Ryzen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\obj\\",
+        "projectPath": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\TribuSoft.Domain.csproj",
+        "packagesPath": "C:\\Users\\MIGUEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ryzen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MIGUEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -867,7 +865,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -1187,20 +1184,20 @@
         }
       }
     },
-    "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj": {
+    "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj",
         "projectName": "TribuSoft.Infrastructure",
-        "projectPath": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Ryzen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\MIGUEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ryzen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MIGUEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1209,7 +1206,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -1217,8 +1213,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\TribuSoft.Domain.csproj": {
-                "projectPath": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\TribuSoft.Domain.csproj"
+              "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\TribuSoft.Domain.csproj": {
+                "projectPath": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\TribuSoft.Domain.csproj"
               }
             }
           }
