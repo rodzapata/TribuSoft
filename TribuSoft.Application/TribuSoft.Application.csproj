@@ -7,7 +7,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TribuSoft.Infrastructure\TribuSoft.Infrastructure.csproj" />
+    <Folder Include="DTOs\" />
+    <Folder Include="Interfaces\Services\" />
+    <Folder Include="Interfaces\Repositories\" />
+    <Folder Include="UseCases\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TribuSoft.Domain\TribuSoft.Domain.csproj" />
   </ItemGroup>
 
 </Project>

@@ -7,13 +7,20 @@ namespace TribuSoft.Domain.Entities;
 public sealed class Municipio
 {
     // Usamos 'init' ya que el código suele ser la llave primaria natural y no cambia tras crearse.
-    public string Codigo { get; private init; }
-    public string Nombre { get; private set; }
+    public string Codigo { get; private set; } = null!;
+    public string Nombre { get; private set; } = null!;
     public string CodigoDepartamento { get; private set; }
 
     public Departamento Departamento { get; private set; } = null!;
 
+    // Respaldamos la lista en un campo privado
+    private readonly List<Tercero> _terceros = [];
+
+    // Exponemos la colección como de solo lectura para proteger la consistencia del dominio
+    public IReadOnlyCollection<Tercero> Terceros => _terceros;
+
     // Constructor requerido por Entity Framework Core para la materialización
+    [Obsolete("Solo para EF Core", error: false)]
     private Municipio() { }
 
     // Constructor recomendado para crear la entidad de forma controlada

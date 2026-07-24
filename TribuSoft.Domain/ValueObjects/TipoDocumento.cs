@@ -23,7 +23,7 @@ public sealed record TipoDocumento
     public bool EsPersonaJuridica =>
         Codigo == "31";
 
-    public static TipoDocumento From(string codigo)
+    public static TipoDocumento FromCodigo(string codigo)
         => codigo switch
         {
             "13" => CedulaCiudadania,

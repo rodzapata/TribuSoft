@@ -1,50 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\",
+  "WorkspaceRootPath": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|c:\\users\\miguel\\documents\\workspace\\tribusoft\\tribusoft.domain\\entities\\personajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|solutionrelative:tribusoft.domain\\entities\\personajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|c:\\users\\miguel\\documents\\workspace\\tribusoft\\tribusoft.domain\\entities\\personanatural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|solutionrelative:tribusoft.domain\\entities\\personanatural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|c:\\users\\miguel\\documents\\workspace\\tribusoft\\tribusoft.domain\\entities\\tercero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|solutionrelative:tribusoft.domain\\entities\\tercero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|c:\\users\\miguel\\documents\\workspace\\tribusoft\\tribusoft.domain\\valueobjects\\tipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|c:\\users\\ryzen\\documents\\workspace\\tribusoft\\tribusoft.domain\\valueobjects\\tipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|solutionrelative:tribusoft.domain\\valueobjects\\tipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|c:\\users\\miguel\\documents\\workspace\\tribusoft\\tribusoft.domain\\entities\\tercero_ant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|solutionrelative:tribusoft.domain\\entities\\tercero_ant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|c:\\users\\ryzen\\documents\\workspace\\tribusoft\\tribusoft.domain\\entities\\personajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|solutionrelative:tribusoft.domain\\entities\\personajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{859142BC-95F4-F0C8-C53B-31FD2AAB2D46}|TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj|c:\\users\\miguel\\documents\\workspace\\tribusoft\\tribusoft.infrastructure\\persistence\\entities\\tercero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{859142BC-95F4-F0C8-C53B-31FD2AAB2D46}|TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj|solutionrelative:tribusoft.infrastructure\\persistence\\entities\\tercero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|c:\\users\\miguel\\documents\\workspace\\tribusoft\\tribusoft.domain\\entities\\municipio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|solutionrelative:tribusoft.domain\\entities\\municipio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|c:\\users\\miguel\\documents\\workspace\\tribusoft\\tribusoft.domain\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|solutionrelative:tribusoft.domain\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{859142BC-95F4-F0C8-C53B-31FD2AAB2D46}|TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj|c:\\users\\miguel\\documents\\workspace\\tribusoft\\tribusoft.infrastructure\\persistence\\configurations\\departamentoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{859142BC-95F4-F0C8-C53B-31FD2AAB2D46}|TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj|c:\\users\\ryzen\\documents\\workspace\\tribusoft\\tribusoft.infrastructure\\persistence\\configurations\\departamentoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{859142BC-95F4-F0C8-C53B-31FD2AAB2D46}|TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj|solutionrelative:tribusoft.infrastructure\\persistence\\configurations\\departamentoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{859142BC-95F4-F0C8-C53B-31FD2AAB2D46}|TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj|c:\\users\\miguel\\documents\\workspace\\tribusoft\\tribusoft.infrastructure\\persistence\\configurations\\municipioconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|c:\\users\\ryzen\\documents\\workspace\\tribusoft\\tribusoft.domain\\entities\\municipio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|solutionrelative:tribusoft.domain\\entities\\municipio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859142BC-95F4-F0C8-C53B-31FD2AAB2D46}|TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj|c:\\users\\ryzen\\documents\\workspace\\tribusoft\\tribusoft.infrastructure\\persistence\\configurations\\municipioconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{859142BC-95F4-F0C8-C53B-31FD2AAB2D46}|TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj|solutionrelative:tribusoft.infrastructure\\persistence\\configurations\\municipioconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{859142BC-95F4-F0C8-C53B-31FD2AAB2D46}|TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj|c:\\users\\miguel\\documents\\workspace\\tribusoft\\tribusoft.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|c:\\users\\ryzen\\documents\\workspace\\tribusoft\\tribusoft.domain\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|solutionrelative:tribusoft.domain\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|c:\\users\\ryzen\\documents\\workspace\\tribusoft\\tribusoft.domain\\entities\\tercero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|solutionrelative:tribusoft.domain\\entities\\tercero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|c:\\users\\ryzen\\documents\\workspace\\tribusoft\\tribusoft.domain\\entities\\personanatural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|solutionrelative:tribusoft.domain\\entities\\personanatural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859142BC-95F4-F0C8-C53B-31FD2AAB2D46}|TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj|c:\\users\\ryzen\\documents\\workspace\\tribusoft\\tribusoft.infrastructure\\persistence\\appdbcontext_ant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859142BC-95F4-F0C8-C53B-31FD2AAB2D46}|TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj|solutionrelative:tribusoft.infrastructure\\persistence\\appdbcontext_ant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859142BC-95F4-F0C8-C53B-31FD2AAB2D46}|TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj|c:\\users\\ryzen\\documents\\workspace\\tribusoft\\tribusoft.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{859142BC-95F4-F0C8-C53B-31FD2AAB2D46}|TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj|solutionrelative:tribusoft.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|c:\\users\\ryzen\\documents\\workspace\\tribusoft\\tribusoft.domain\\entities\\tercero_ant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A7DA2E-C615-5A03-4599-D48782291617}|TribuSoft.Domain\\TribuSoft.Domain.csproj|solutionrelative:tribusoft.domain\\entities\\tercero_ant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,150 +54,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 16,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Tercero.cs",
-              "DocumentMoniker": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\Persistence\\Entities\\Tercero.cs",
-              "RelativeDocumentMoniker": "TribuSoft.Infrastructure\\Persistence\\Entities\\Tercero.cs",
-              "ToolTip": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\Persistence\\Entities\\Tercero.cs",
-              "RelativeToolTip": "TribuSoft.Infrastructure\\Persistence\\Entities\\Tercero.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T17:00:08.163Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Tercero.cs",
-              "DocumentMoniker": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\Entities\\Tercero.cs",
-              "RelativeDocumentMoniker": "TribuSoft.Domain\\Entities\\Tercero.cs",
-              "ToolTip": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\Entities\\Tercero.cs",
-              "RelativeToolTip": "TribuSoft.Domain\\Entities\\Tercero.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAswDAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T14:35:09.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PersonaJuridica.cs",
-              "DocumentMoniker": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\Entities\\PersonaJuridica.cs",
-              "RelativeDocumentMoniker": "TribuSoft.Domain\\Entities\\PersonaJuridica.cs",
-              "ToolTip": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\Entities\\PersonaJuridica.cs",
-              "RelativeToolTip": "TribuSoft.Domain\\Entities\\PersonaJuridica.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBgAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T14:30:52.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonaNatural.cs",
-              "DocumentMoniker": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\Entities\\PersonaNatural.cs",
-              "RelativeDocumentMoniker": "TribuSoft.Domain\\Entities\\PersonaNatural.cs",
-              "ToolTip": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\Entities\\PersonaNatural.cs",
-              "RelativeToolTip": "TribuSoft.Domain\\Entities\\PersonaNatural.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAADwvy0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T14:30:24.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TipoDocumento.cs",
-              "DocumentMoniker": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\ValueObjects\\TipoDocumento.cs",
-              "RelativeDocumentMoniker": "TribuSoft.Domain\\ValueObjects\\TipoDocumento.cs",
-              "ToolTip": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\ValueObjects\\TipoDocumento.cs",
-              "RelativeToolTip": "TribuSoft.Domain\\ValueObjects\\TipoDocumento.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAYwCIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T19:59:27.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DepartamentoConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\Persistence\\Configurations\\DepartamentoConfiguration.cs",
-              "RelativeDocumentMoniker": "TribuSoft.Infrastructure\\Persistence\\Configurations\\DepartamentoConfiguration.cs",
-              "ToolTip": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\Persistence\\Configurations\\DepartamentoConfiguration.cs",
-              "RelativeToolTip": "TribuSoft.Infrastructure\\Persistence\\Configurations\\DepartamentoConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T18:28:21.32Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\Persistence\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "TribuSoft.Infrastructure\\Persistence\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\Persistence\\AppDbContext.cs",
-              "RelativeToolTip": "TribuSoft.Infrastructure\\Persistence\\AppDbContext.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAswDsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T16:15:39.52Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Municipio.cs",
-              "DocumentMoniker": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\Entities\\Municipio.cs",
-              "RelativeDocumentMoniker": "TribuSoft.Domain\\Entities\\Municipio.cs",
-              "ToolTip": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\Entities\\Municipio.cs",
-              "RelativeToolTip": "TribuSoft.Domain\\Entities\\Municipio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T15:03:24.903Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Departamento.cs",
-              "DocumentMoniker": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\Entities\\Departamento.cs",
-              "RelativeDocumentMoniker": "TribuSoft.Domain\\Entities\\Departamento.cs",
-              "ToolTip": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\Entities\\Departamento.cs",
-              "RelativeToolTip": "TribuSoft.Domain\\Entities\\Departamento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T15:03:06.794Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Tercero_ant.cs",
-              "DocumentMoniker": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\Entities\\Tercero_ant.cs",
-              "RelativeDocumentMoniker": "TribuSoft.Domain\\Entities\\Tercero_ant.cs",
-              "ToolTip": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\Entities\\Tercero_ant.cs",
-              "RelativeToolTip": "TribuSoft.Domain\\Entities\\Tercero_ant.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAA7wCEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T13:16:48.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MunicipioConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\Persistence\\Configurations\\MunicipioConfiguration.cs",
-              "RelativeDocumentMoniker": "TribuSoft.Infrastructure\\Persistence\\Configurations\\MunicipioConfiguration.cs",
-              "ToolTip": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\Persistence\\Configurations\\MunicipioConfiguration.cs",
-              "RelativeToolTip": "TribuSoft.Infrastructure\\Persistence\\Configurations\\MunicipioConfiguration.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T18:55:52.075Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -241,6 +99,139 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MunicipioConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\Persistence\\Configurations\\MunicipioConfiguration.cs",
+              "RelativeDocumentMoniker": "TribuSoft.Infrastructure\\Persistence\\Configurations\\MunicipioConfiguration.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\Persistence\\Configurations\\MunicipioConfiguration.cs",
+              "RelativeToolTip": "TribuSoft.Infrastructure\\Persistence\\Configurations\\MunicipioConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T18:55:52.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Municipio.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\Entities\\Municipio.cs",
+              "RelativeDocumentMoniker": "TribuSoft.Domain\\Entities\\Municipio.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\Entities\\Municipio.cs",
+              "RelativeToolTip": "TribuSoft.Domain\\Entities\\Municipio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T15:03:24.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartamentoConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\Persistence\\Configurations\\DepartamentoConfiguration.cs",
+              "RelativeDocumentMoniker": "TribuSoft.Infrastructure\\Persistence\\Configurations\\DepartamentoConfiguration.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\Persistence\\Configurations\\DepartamentoConfiguration.cs",
+              "RelativeToolTip": "TribuSoft.Infrastructure\\Persistence\\Configurations\\DepartamentoConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T18:28:21.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\Entities\\Departamento.cs",
+              "RelativeDocumentMoniker": "TribuSoft.Domain\\Entities\\Departamento.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\Entities\\Departamento.cs",
+              "RelativeToolTip": "TribuSoft.Domain\\Entities\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T15:03:06.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tercero.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\Entities\\Tercero.cs",
+              "RelativeDocumentMoniker": "TribuSoft.Domain\\Entities\\Tercero.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\Entities\\Tercero.cs",
+              "RelativeToolTip": "TribuSoft.Domain\\Entities\\Tercero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T14:35:09.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TipoDocumento.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\ValueObjects\\TipoDocumento.cs",
+              "RelativeDocumentMoniker": "TribuSoft.Domain\\ValueObjects\\TipoDocumento.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\ValueObjects\\TipoDocumento.cs",
+              "RelativeToolTip": "TribuSoft.Domain\\ValueObjects\\TipoDocumento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T19:59:27.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonaJuridica.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\Entities\\PersonaJuridica.cs",
+              "RelativeDocumentMoniker": "TribuSoft.Domain\\Entities\\PersonaJuridica.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\Entities\\PersonaJuridica.cs",
+              "RelativeToolTip": "TribuSoft.Domain\\Entities\\PersonaJuridica.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T14:30:52.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonaNatural.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\Entities\\PersonaNatural.cs",
+              "RelativeDocumentMoniker": "TribuSoft.Domain\\Entities\\PersonaNatural.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\Entities\\PersonaNatural.cs",
+              "RelativeToolTip": "TribuSoft.Domain\\Entities\\PersonaNatural.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T14:30:24.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext_ant.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\Persistence\\AppDbContext_ant.cs",
+              "RelativeDocumentMoniker": "TribuSoft.Infrastructure\\Persistence\\AppDbContext_ant.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\Persistence\\AppDbContext_ant.cs",
+              "RelativeToolTip": "TribuSoft.Infrastructure\\Persistence\\AppDbContext_ant.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T16:20:54.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TribuSoft.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "TribuSoft.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T16:15:39.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tercero_ant.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\Entities\\Tercero_ant.cs",
+              "RelativeDocumentMoniker": "TribuSoft.Domain\\Entities\\Tercero_ant.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\Entities\\Tercero_ant.cs",
+              "RelativeToolTip": "TribuSoft.Domain\\Entities\\Tercero_ant.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA7wCEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T13:16:48.945Z"
             }
           ]
         }

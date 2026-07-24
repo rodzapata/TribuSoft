@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TribuSoft.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68f7dc1dc7e3c0dee60cca3a3e6fd21b2c048c38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a08f50a005247a3913d32c1d7b6f526bf8db075c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TribuSoft.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TribuSoft.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

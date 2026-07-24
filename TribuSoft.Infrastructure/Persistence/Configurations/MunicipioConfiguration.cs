@@ -28,12 +28,12 @@ internal sealed class MunicipioConfiguration: IEntityTypeConfiguration<Municipio
         builder.Property(m => m.Nombre)
             .HasColumnName("nombre")
             .HasMaxLength(120);
-        /*
-        builder.HasOne(d => d.CodigoDepartamentoNavigation).WithMany(p => p.Municipios)
-            .HasForeignKey(d => d.CodigoDepartamento)
-            .OnDelete(DeleteBehavior.ClientSetNull)
+
+        builder.HasOne(m => m.Departamento)
+            .WithMany(d => d.Municipios)
+            .HasForeignKey(m => m.CodigoDepartamento)
+            .OnDelete(DeleteBehavior.Restrict)
             .HasConstraintName("fk_municipio_departamento");
-        */
 
     }
 }

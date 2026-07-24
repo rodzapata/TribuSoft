@@ -1280,6 +1280,19 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
+      "TribuSoft.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "TribuSoft.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TribuSoft.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TribuSoft.Application.dll": {}
+        }
+      },
       "TribuSoft.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
@@ -3728,6 +3741,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "TribuSoft.Application/1.0.0": {
+      "type": "project",
+      "path": "../TribuSoft.Application/TribuSoft.Application.csproj",
+      "msbuildProject": "../TribuSoft.Application/TribuSoft.Application.csproj"
+    },
     "TribuSoft.Domain/1.0.0": {
       "type": "project",
       "path": "../TribuSoft.Domain/TribuSoft.Domain.csproj",
@@ -3740,27 +3758,28 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 10.0.2",
       "Microsoft.EntityFrameworkCore.Tools >= 10.0.2",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 10.0.2",
+      "TribuSoft.Application >= 1.0.0",
       "TribuSoft.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MIGUEL\\.nuget\\packages\\": {},
+    "C:\\Users\\Ryzen\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj",
       "projectName": "TribuSoft.Infrastructure",
-      "projectPath": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\MIGUEL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Ryzen\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\MIGUEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ryzen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3769,6 +3788,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3776,8 +3796,11 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\TribuSoft.Domain.csproj": {
-              "projectPath": "C:\\Users\\MIGUEL\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\TribuSoft.Domain.csproj"
+            "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Application\\TribuSoft.Application.csproj": {
+              "projectPath": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Application\\TribuSoft.Application.csproj"
+            },
+            "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\TribuSoft.Domain.csproj": {
+              "projectPath": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Domain\\TribuSoft.Domain.csproj"
             }
           }
         }

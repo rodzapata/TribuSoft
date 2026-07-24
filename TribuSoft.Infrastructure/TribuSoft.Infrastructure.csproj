@@ -20,7 +20,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\TribuSoft.Application\TribuSoft.Application.csproj" />
     <ProjectReference Include="..\TribuSoft.Domain\TribuSoft.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Persistence\Repositories\" />
   </ItemGroup>
 
 </Project>
