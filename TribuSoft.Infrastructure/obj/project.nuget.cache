@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "LMUyGGUYLJs=",
+  "dgSpecHash": "TWUtQt0owbE=",
   "success": true,
   "projectFilePath": "C:\\Users\\Ryzen\\Documents\\workspace\\TribuSoft\\TribuSoft.Infrastructure\\TribuSoft.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ryzen\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\Ryzen\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
+    "C:\\Users\\Ryzen\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
+    "C:\\Users\\Ryzen\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.1.1\\fluentvalidation.dependencyinjectionextensions.12.1.1.nupkg.sha512",
     "C:\\Users\\Ryzen\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Ryzen\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
     "C:\\Users\\Ryzen\\.nuget\\packages\\microsoft.bcl.cryptography\\9.0.4\\microsoft.bcl.cryptography.9.0.4.nupkg.sha512",
