@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TribuSoft.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d592624aef1caf1a1515f8425f69fbc463b3273c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04e8b0c9417c42af4d2640bb6c656f78d9055333")]
 [assembly: System.Reflection.AssemblyProductAttribute("TribuSoft.api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TribuSoft.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

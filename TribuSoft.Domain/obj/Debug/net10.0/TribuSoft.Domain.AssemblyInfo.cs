@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TribuSoft.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a08f50a005247a3913d32c1d7b6f526bf8db075c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04e8b0c9417c42af4d2640bb6c656f78d9055333")]
 [assembly: System.Reflection.AssemblyProductAttribute("TribuSoft.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TribuSoft.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
