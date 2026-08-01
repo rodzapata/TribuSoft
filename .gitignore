@@ -2,6 +2,7 @@
 # .NET / Visual Studio Enterprise .gitignore
 # Compatible:
 # - .NET 8 / 9 / 10
+# - Visual Studio 2022 / 2025 / 2026
 # - Visual Studio Community / Professional / Enterprise
 # - EF Core
 # - SQL Server
@@ -26,14 +27,23 @@ Publish/
 ##############################
 
 .vs/
+
+# Visual Studio user settings
 *.user
 *.rsuser
 *.suo
 *.userprefs
 *.sln.docstates
 
+# Visual Studio cache / IntelliSense
+*.vsidx
+*.VC.db
+*.VC.opendb
+*.opendb
+ipch/
+
 ##############################
-# Rider / VSCode
+# Rider / VS Code
 ##############################
 
 .idea/
@@ -100,15 +110,8 @@ _ReSharper*/
 ##############################
 
 packages/
-
 *.nupkg
 *.snupkg
-
-##############################
-# Local NuGet Cache
-##############################
-
-.nuget/
 
 ##############################
 # Logs
@@ -169,6 +172,8 @@ iisexpress/
 ##############################
 
 docker-compose.override.yml
+docker-compose.vs.debug.g.yml
+docker-compose.vs.release.g.yml
 
 ##############################
 # Node.js
@@ -180,7 +185,7 @@ build/
 .next/
 
 ##############################
-# npm
+# npm / Yarn
 ##############################
 
 npm-debug.log*
@@ -194,6 +199,7 @@ yarn-error.log*
 *.tmp
 *.temp
 *.cache
+*.cachefile
 
 ##############################
 # Generated Files
@@ -239,3 +245,29 @@ PublishProfiles/
 
 *.pid
 *.seed
+
+##############################
+# OS / Editor
+##############################
+
+*.swp
+*.bak
+*.orig
+
+##############################
+# Visual Studio Live Share
+##############################
+
+.vsls.json
+
+##############################
+# Azure Functions
+##############################
+
+local.settings.json
+
+##############################
+# EF Core
+##############################
+
+efbundle
