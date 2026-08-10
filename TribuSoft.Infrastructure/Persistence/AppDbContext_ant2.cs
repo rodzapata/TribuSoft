@@ -6,9 +6,9 @@ using TribuSoft.Domain.Entities;
 
 namespace TribuSoft.Infrastructure.Persistence;
 
-public sealed class AppDbContext : DbContext
+public sealed class AppDbContext_ant2 : DbContext
 {
-    public AppDbContext(DbContextOptions<AppDbContext> options)
+    public AppDbContext_ant2(DbContextOptions<AppDbContext_ant2> options)
         : base(options)
     {
     }
@@ -22,7 +22,7 @@ public sealed class AppDbContext : DbContext
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.ApplyConfigurationsFromAssembly(
-            typeof(AppDbContext).Assembly);
+            typeof(AppDbContext_ant2).Assembly);
 
         base.OnModelCreating(modelBuilder);
     }

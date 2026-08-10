@@ -7,7 +7,7 @@ namespace TribuSoft.Infrastructure.Persistence;
 
 public partial class AppDbContext2 : DbContext
 {
-    public AppDbContext2(DbContextOptions<AppDbContext> options)
+    public AppDbContext2(DbContextOptions<AppDbContext_ant2> options)
         : base(options)
     {
     }
