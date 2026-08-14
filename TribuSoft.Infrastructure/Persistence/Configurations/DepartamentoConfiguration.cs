@@ -23,8 +23,6 @@ internal sealed class DepartamentoConfiguration: IEntityTypeConfiguration<Depart
         builder.Property(d => d.Nombre)
             .HasColumnName("nombre")
             .HasMaxLength(80);
-
-
   
     }
 }
