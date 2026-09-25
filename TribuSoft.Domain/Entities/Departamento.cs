@@ -25,6 +25,7 @@ public sealed class Departamento
         ArgumentException.ThrowIfNullOrWhiteSpace(codigo);
         ArgumentException.ThrowIfNullOrWhiteSpace(nombre);
 
+
         Codigo = codigo;
         Nombre = nombre;
     }

@@ -4,3 +4,7 @@ GET {{TribuSoft.Api_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+
+
+GET {{TribuSoft.Api_HostAddress}}/configuracion/
+Accept: application/json
